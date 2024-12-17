@@ -16,5 +16,5 @@ ageInDays = current_date.day - birthday.day
 print(f"Your exact ags is {age} years,  {ageInMonths} month(s), "
       f"and {ageInDays} day(s) old! You look good! 😉.")
 
-
-
+print("Thank you for using the age calculator!")
+print("Have a great day! 🌞")
