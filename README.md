@@ -13,7 +13,7 @@ I started this challenge on December 14, 2024, and my goal is to complete all 20
 | 1   | 🌟 **Number Guessing Game**    | Completed 12.15.2024 |
 | 2   | 📅 **Age Calculator**          | Completed 12.16.2024 |
 | 3   | 🧮 **Simple Calculator**       | Completed 12.17.2024 |
-| 4   | 📚 **Word Counter**            | Not Started          |
+| 4   | 📚 **Word Counter**            | Completed 12.19.2024 |
 | 5   | 💵 **Currency Converter**      | Not Started          |
 | 6   | 🎲 **Dice Roller Simulator**   | Not Started          |
 | 7   | 🕰️ **Countdown Timer**         | Not Started          |
