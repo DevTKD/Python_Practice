@@ -3,6 +3,9 @@ import random
 💋Sassy Diva Game: 
 Ask any yes or no question and see what answer the Sassy Diva has for you!
 """
+print("Welcome to the Sassy Diva Game! ")
+print("Ask a Yes/No question and see what the Diva predicts for your future!")
+print("To end the game type 'exit'")
 
 response_options = {
   1: "Yes, but dont mess it up!",
@@ -27,6 +30,12 @@ response_options = {
 	20: "It’s a yes, but only because I like you."
 }
 
-user_question = input("Enter a yes or no question: ")
-random_response = random.randint(1, 20)
-print(response_options[random_response])
+while True:
+	user_question = input("Enter a yes or no question: ")
+
+	if user_question.lower() == 'exit':
+		print("Thanks for playing! Goodbye!")
+		break
+
+	random_response = random.randint(1, 20)
+	print(response_options[random_response])
