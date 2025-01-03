@@ -27,3 +27,40 @@ body {
 h2 {
     text-align: center;
 }
+
+.thought-bubble {
+    position: relative;
+    background: #000; /* Set background to black */
+    border-radius: 15px;
+    padding: 10px; /* Adjust padding as needed */
+    width: 150px; /* Adjust width as needed */
+    height: 80px; /* Adjust height as needed */
+    margin: 20px;
+    color: #fff; /* Set text color to white */
+}
+
+.thought-bubble::after {
+    content: '';
+    position: absolute;
+    bottom: -20px;
+    left: 20px;
+    width: 0;
+    height: 0;
+    border: 10px solid transparent;
+    border-top-color: #000; /* Match the background color */
+}
+
+#thought-text {
+    text-align: center;
+    font-size: 25px; /* Adjust font size as needed */
+    color: #fff; /* Ensure text color is white */
+}
+
+.diva-image img {
+    padding-top: 20px;
+    width: 200%;
+    height: auto;
+    max-width: 500px; /* Adjust the max-width as needed */
+    display: block;
+    margin: 0 auto; /* Center the image horizontally */
+}
