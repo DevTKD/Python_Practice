@@ -15,13 +15,13 @@ I started this challenge on December 14, 2024, and my goal is to complete all 20
 | 3  | 🧮 **Simple Calculator**         | Completed 12.17.2024 |
 | 4  | 📚 **Word Counter**              | Completed 12.20.2024 |
 | 5  | 💵 **Currency Converter**        | Completed 12.22.2024 |
-| 6  | 🎲 **Dice Roller Simulator**     | Not Started          |
+| 6  | 🎲 **Dice Roller Simulator**     | Completed 01.03.2025 |
 | 7  | 🕰️ **Countdown Timer**          | Not Started          |
 | 8  | 🎶 **Favorite Song Recommender** | Not Started          |
 | 9  | 🧙 **Magic 8-Ball**              | Not Started          |
 | 10 | 🏆 **Grade Calculator**          | Not Started          |
 | 11 | 📤 **Email Validator**           | Not Started          |
-| 12 | 🎮 **Simple Text Base Game**     | Not Started          |
+| 12 | 🎮 **Simple Text Base Game**     | In Progress          |
 | 13 | 🌈 **Random Color Picker**       | Not Started          |
 | 14 | 🎴 **Rock-Paper-Scissors Game**  | Not Started          |
 | 15 | ⏳ **Days Until Your Birthday**   | Not Started          |
