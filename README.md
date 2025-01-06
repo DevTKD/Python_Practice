@@ -18,13 +18,13 @@ I started this challenge on December 14, 2024, and my goal is to complete all 20
 | 6  | 🎲 **Dice Roller Simulator**     | Completed 01.03.2025 |
 | 7  | 🕰️ **Countdown Timer**          | Not Started          |
 | 8  | 🎶 **Favorite Song Recommender** | Not Started          |
-| 9  | 🧙 **Magic 8-Ball**              | Not Started          |
+| 9  | 🧙 **Magic Sassy Diva v1**       | Completed 12.25.2024 |
 | 10 | 🏆 **Grade Calculator**          | Not Started          |
 | 11 | 📤 **Email Validator**           | Not Started          |
 | 12 | 🎮 **Simple Text Base Game**     | In Progress          |
 | 13 | 🌈 **Random Color Picker**       | Not Started          |
 | 14 | 🎴 **Rock-Paper-Scissors Game**  | Not Started          |
-| 15 | ⏳ **Days Until Your Birthday**   | Not Started          |
+| 15 | ⏳ **Days Until Your Birthday**   | Completed 01.05.2025 |
 | 16 | 🔄 **Palindrome Checker**        | Not Started          |
 | 17 | 🚦 **Traffic Light Simulator**   | Not Started          |
 | 18 | 📜 **To-Do List Manager**        | Not Started          |
