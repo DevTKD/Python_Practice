@@ -19,7 +19,7 @@ I started this challenge on December 14, 2024, and my goal is to complete all 20
 | 7  | 🕰️ **Countdown Timer**          | Not Started          |
 | 8  | 🎶 **Favorite Song Recommender** | Not Started          |
 | 9  | 🧙 **Magic Sassy Diva v1**       | Completed 12.25.2024 |
-| 10 | 🏆 **Grade Calculator**          | Not Started          |
+| 10 | 🏆 **Grade Calculator**          | Completed 01.12.2025 |
 | 11 | 📤 **Email Validator**           | Not Started          |
 | 12 | 🎮 **Simple Text Base Game**     | In Progress          |
 | 13 | 🌈 **Random Color Picker**       | Not Started          |
