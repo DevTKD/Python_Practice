@@ -25,7 +25,7 @@ I started this challenge on December 14, 2024, and my goal is to complete all 20
 | 13 | 🌈 **Random Color Picker**       | Not Started          |
 | 14 | 🎴 **Rock-Paper-Scissors Game**  | Completed 01.11.2025 |
 | 15 | ⏳ **Days Until Your Birthday**   | Completed 01.05.2025 |
-| 16 | 🔄 **Palindrome Checker**        | Not Started          |
+| 16 | 🔄 **Palindrome Checker**        | Completed 01.12.2025 |
 | 17 | 🚦 **Traffic Light Simulator**   | Not Started          |
 | 18 | 📜 **To-Do List Manager**        | Not Started          |
 | 19 | 🗓️ **Calendar Generator**       | Not Started          |
