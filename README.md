@@ -17,7 +17,7 @@ I started this challenge on December 14, 2024, and my goal is to complete all 20
 | 5  | 💵 **Currency Converter**        | Completed 12.22.2024 |
 | 6  | 🎲 **Dice Roller Simulator**     | Completed 01.03.2025 |
 | 7  | 🕰️ **Countdown Timer**          | Not Started          |
-| 8  | 🎶 **Favorite Song Recommender** | In Progress          |
+| 8  | 🎶 **Favorite Song Recommender** | Completed 01.14.2025 |
 | 9  | 🧙 **Magic Sassy Diva v1**       | Completed 12.25.2024 |
 | 10 | 🏆 **Grade Calculator**          | Completed 01.12.2025 |
 | 11 | 📤 **Email Validator**           | Not Started          |
@@ -26,7 +26,7 @@ I started this challenge on December 14, 2024, and my goal is to complete all 20
 | 14 | 🎴 **Rock-Paper-Scissors Game**  | Completed 01.11.2025 |
 | 15 | ⏳ **Days Until Your Birthday**   | Completed 01.05.2025 |
 | 16 | 🔄 **Palindrome Checker**        | Completed 01.12.2025 |
-| 17 | 🚦 **Traffic Light Simulator**   | Not Started          |
+| 17 | 🚦 **Traffic Light Simulator**   | In Progress          |
 | 18 | 📜 **To-Do List Manager**        | Not Started          |
 | 19 | 🗓️ **Calendar Generator**       | Not Started          |
 | 20 | 🎰 **Simple Slot Machine**       | Not Started          |
